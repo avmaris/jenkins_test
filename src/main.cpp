@@ -4,7 +4,7 @@
 
 using namespace std;
 
-#error "Some one broke!"
+//#error "Some one broke!"
 
 int main(int argc, char const *argv[])
 {
